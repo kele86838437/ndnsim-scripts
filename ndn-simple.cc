@@ -44,7 +44,7 @@ using namespace ns3;
  *
  *     NS_LOG=ndn.Consumer:ndn.Producer ./waf --run=ndn-simple
  */
-
+//可以./ndn-simple 来运行，CLI的作用在于，可以方便使用GDB前端Eclipse
 int 
 main (int argc, char *argv[])
 {
