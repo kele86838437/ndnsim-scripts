@@ -3,10 +3,10 @@ im-scripts
 
 通过安装ndnSim，来安装ndnSim库文件，用Eclipse Cdt来编写普通的c++ CLI程序，来模拟ndn网络运行。
 
-    ubuntu   12.10
+    ubuntu:  12.10
     gcc:     4.7.2
     make:    GNU Make 3.81
-    eclispe  Juno Service Release 2
+    eclispe: Juno Service Release 2
 ndnsim安装
 ----------
 参考[过程安装](http://ndnsim.net/getting-started.html)
