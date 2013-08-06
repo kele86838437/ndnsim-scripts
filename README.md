@@ -29,3 +29,19 @@ ndnsim安装
 
     sudo ldconfig -v
 这样就可以使用g++ -g *.cc -o * -lns3* 像普通C++程序链接上ns3的链接库，并且可以在eclipse中使用cdt来debug程序了。
+
+源码查找帮助
+-----------
+* 要根据文件名，查找ns-3里的源码文件时，可以使用eclipse快捷键
+
+        ctrl+shift+r
+* 要根据文件中出现的字符，或者变量名，类名进行查找时，可使用eclispe快捷键
+
+        ctrl+h 
+选择相应的标签
+
+* 头文件和对应的实现文件间的切换，可使用eclipse快捷键
+    
+        ctrl+tab
+
+    
